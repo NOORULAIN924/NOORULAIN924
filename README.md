@@ -17,15 +17,6 @@ IT student with strong expertise in **UI/UX design, web development, computer ne
 
 ---
 
-### 🎓 Education
-
-| Degree | Institution | Duration |
-|---|---|---|
-| BS Information Technology | Air University, Pakistan | 09/2023 – Present |
-| Intermediate (ICS) | APS Gracy Lines, Pakistan | 07/2021 – 04/2023 |
-
----
-
 ### 🚀 Featured Project
 
 **FYP – CIPHER: A Policy-as-Code Driven DevSecOps Scanner for MCP Tool Poisoning**
@@ -53,15 +44,6 @@ Open-source DevSecOps security scanner designed to detect MCP (Model Context Pro
 - **Fire Evacuation Analysis of Algorithm** — *C++, BFS, Dijkstra, A**
   Hybrid adaptive multi-objective algorithm that dynamically switches strategies as fire spreads, balancing speed, safety, and survival probability.
 
-- **Air University Website** — *HTML, CSS, JavaScript, UI/UX Design*
-  Responsive, accessible website for Air University.
-
-- **Winter Fashion Website** — *HTML, CSS, JavaScript, UI/UX Design, SEO*
-  E-commerce website for a winter fashion brand.
-
-- **Tourism Management System** — *C++, OOP, DBMS*
-  Manages tourism operations including bookings, user management, and itinerary planning.
-
 - **NGO Management System** — *PHP, MySQL*
   Web-based system to create, manage, and display notices for efficient communication.
 
@@ -74,14 +56,9 @@ Open-source DevSecOps security scanner designed to detect MCP (Model Context Pro
 - **Maze Solver** — *C++, DSA (BFS, DFS)*
   Efficient pathfinding solver.
 
-- **University Campus Network** — *Cisco Packet Tracer*
-  Simulated campus network with VLANs and secure routing.
-
 - **Smart Greenhouse Monitoring System (IoT)** — *Cisco Packet Tracer*
   Solar-powered IoT solution for automated irrigation, climate, lighting, and air quality control.
 
-- **Cache Hit/Miss Simulation** — *C++, COAL concepts*
-  Demonstrates how cache hits/misses affect performance.
 
 ---
 
@@ -108,13 +85,11 @@ Open-source DevSecOps security scanner designed to detect MCP (Model Context Pro
 
 ---
 
-
 ### 📫 Get in Touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/noor-ul-ain-b41835313/)
 [![Email](https://img.shields.io/badge/Email-noorulain062005%40gmail.com-red?style=flat&logo=gmail)](mailto:noorulain062005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NOORULAIN924-black?style=flat&logo=github)](https://github.com/NOORULAIN924)
-[![Résumé](https://img.shields.io/badge/Résumé-Download-blue?style=flat)](https://sibghatullah-pk.github.io/Noor/Noor_Ul_Ain_Resume.pdf)
-
 
 
 ---
